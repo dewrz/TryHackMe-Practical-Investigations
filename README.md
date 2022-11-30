@@ -15,4 +15,13 @@ What is the device name when being called by RawAccessRead in Investigation 1?<b
 <br>
 <a href="https://imgur.com/rBFTAC7"><img src="https://i.imgur.com/rBFTAC7.png" title="source: imgur.com" /></a><br>
 <br>
-<b>Answer:</b> \Device\HarddiskVolume3
+<b>Answer:</b> \Device\HarddiskVolume3<br>
+<br>
+What is the first exe the process executes in Investigation 1?<br>
+<br>
+<a href="https://imgur.com/v0u7BfB"><img src="https://i.imgur.com/v0u7BfB.png" title="source: imgur.com" /></a><br>
+<br>
+<b>Answer:</b> rundll32.exe <br>
+<br>
+<b>Investigation 2:</b><br>
+<br>
