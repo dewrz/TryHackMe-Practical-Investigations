@@ -23,5 +23,21 @@ What is the first exe the process executes in Investigation 1?<br>
 <br>
 <b>Answer:</b> rundll32.exe <br>
 <br>
+<b>Investig<a href="https://imgur.com/YzC4Ci9"><img src="https://i.imgur.com/YzC4Ci9.png" title="source: imgur.com" /></a><br>
+<br>
 <b>Investigation 2:</b><br>
+<br>
+What is the full path of the payload in Investigation 2?<br>
+<br>
+<a href="https://imgur.com/zbkCb2Y"><img src="https://i.imgur.com/zbkCb2Y.png" title="source: imgur.com" /></a><br>
+<br>
+<b>Answer:</b> C:\Users\IEUser\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\S97WTYG7\update.hta<br>
+<br>
+What is the full path of the file the payload masked itself as in Investigation 2?<br>
+<br>
+<a href="https://imgur.com/YzC4Ci9"><img src="https://i.imgur.com/YzC4Ci9.png" title="source: imgur.com" /></a><br>
+<br>
+<b>Answer:</b> C:\Users\IEUser\Downloads\update.html<br>
+<br>
+What signed binary executed the payload in Investigation 2?<br>
 <br>
