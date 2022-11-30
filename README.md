@@ -23,8 +23,6 @@ What is the first exe the process executes in Investigation 1?<br>
 <br>
 <b>Answer:</b> rundll32.exe <br>
 <br>
-<b>Investig<a href="https://imgur.com/YzC4Ci9"><img src="https://i.imgur.com/YzC4Ci9.png" title="source: imgur.com" /></a><br>
-<br>
 <b>Investigation 2:</b><br>
 <br>
 What is the full path of the payload in Investigation 2?<br>
